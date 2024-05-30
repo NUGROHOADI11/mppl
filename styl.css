@@ -1,0 +1,63 @@
+.bg-image {
+  background-image: url("image/bg2.png"), url("image/bg1.png");
+  background-size: cover;
+  background-position: center, center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.Sweetparade-text {
+  font-family: "Montserrat", Montserrat;
+  color: #ffff;
+  font-size: 36px;
+  font-weight: normal;
+  margin-bottom: 40px;
+}
+
+/* Gaya untuk teks di bagian navbar */
+.navbar-nav .nav-item .nav-link {
+  font-family: "Montserrat", Montserrat;
+  color: #ffff;
+  font-weight: normal;
+  margin-bottom: 20px;
+  margin-right: 0px;
+}
+
+/* Gaya untuk teks di bagian bawah */
+.welcome-text {
+  font-family: "Montserrat", Montserrat;
+  color: #ec6a22;
+  font-size: 32px;
+  font-weight: normal;
+  justify-content: center;
+}
+
+.delicious-text {
+  font-family: "Miltonia Tatto", Miltonia Tatto;
+  color: #ffff;
+  font-size: 70px;
+  font-weight: normal;
+  margin-top: 0px;
+}
+
+.shop-text {
+  font-family: "Miltonia Tatto", Miltonia Tatto;
+  color: #ffff;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+/* Gaya untuk button orange */
+.btn-orange {
+  font-family: "Montserrat", Montserrat;
+  background-color: #ec6a22;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+/* Gaya untuk mengatur button orange di tengah */
+.container-fluid.text-center .row {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
